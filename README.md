@@ -2,7 +2,7 @@
 
 ###### In case you were wondering, this is me in a nutshell => <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ihHlMvsu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/69526a37d84d274e6e01da07bf0ed0b5/tenor.gif" width="250px"> <img align="center" src="https://media4.giphy.com/media/KPgOYtIRnFOOk/giphy-downsized.gif" width="200px">
 
-My name is José Sandoval, and I'm a software developer/system engineer. I'm from Venezuela, living in Ecuador and currently unemployed. Trying my best with some React and game dev courses. I hope you enjoy your stay (>implying there's anything interesting here :shit:)
+My name is José Sandoval, and I'm a software developer/systems engineer. I'm from Venezuela, living in Ecuador and currently unemployed. Trying my best with some React and game dev courses. I hope you enjoy your stay (>implying there's anything interesting here :shit:)
 
 
 ## :chart_with_upwards_trend: GitHub Stats
