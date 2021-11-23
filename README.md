@@ -1,8 +1,9 @@
 # Hello, fellow coders! :wave:
 
-###### In case you were wondering, this is me in a nutshell => <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ihHlMvsu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/69526a37d84d274e6e01da07bf0ed0b5/tenor.gif" width="250px"> <img align="center" src="https://media4.giphy.com/media/KPgOYtIRnFOOk/giphy-downsized.gif" width="200px">
+###### In case you were wondering, this is me in a nutshell => <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ihHlMvsu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/69526a37d84d274e6e01da07bf0ed0b5/tenor.gif" width="348px">
 
-Hey there! My name is José, also known as gori, and I'm a software engineer. Born in Venezuela, living in Spain and currently unemployed. I hope you enjoy your stay (>implying there's anything interesting here :shit:)
+Hey there! My name is Jose, also known as gori, and I'm a software engineer! Born in Venezuela, living in Spain and currently unemployed (not looking for a job atm lol). 
+I hope you enjoy your stay (>implying there's anything interesting here :shit:)
 
 ## :chart_with_upwards_trend: GitHub Stats
 <a href="https://github.com/goritm/goritm">
@@ -17,8 +18,5 @@ Hey there! My name is José, also known as gori, and I'm a software engineer. Bo
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Platforms-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Platforms-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=blueviolet)
