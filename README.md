@@ -9,9 +9,6 @@ I hope you enjoy your stay (>implying there's anything interesting here :shit:)
 <a href="https://github.com/goritm/goritm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=goritm&show_icons=true&theme=tokyonight" alt="Jose's GitHub Stats" />
 </a>
-<a href="https://github.com/goritm/goritm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goritm&theme=tokyonight&hide=ruby,html,java" />
-</a>
 
 ## :wrench: Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
